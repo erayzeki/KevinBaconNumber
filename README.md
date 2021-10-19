@@ -13,7 +13,7 @@ I created a graph by parsing this text file and used BFS (Breadth-First Search) 
 
 # Usage
 
-First, you need to give the name of the text file of the database. After that, program creates a graph with the information given and show how many actors exist at distances from 1 to 6.
+First, you need to give the name of the text file of the database. After that, the program creates a graph with the information given and shows how many actors exist at distances from 1 to 6.
 
 ![alt text](img/loading_database.PNG)
 
